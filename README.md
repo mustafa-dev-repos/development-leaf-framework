@@ -8,9 +8,11 @@ program without explicitly writing codes that need to be carried out to achieve
 the results. You can still use imperative development with Leaf Framework. You
 can also use declarative and imperative development together.
 
-Annotation based configuration management and bean factory<br/>
-Imperative and declarative persistency layer : Zero coding for calling stored procedures <br/>
-Imperative and declarative transaction management<br/>
-Declarative caching<br/>
-Declarative job scheduling<br/>
-Multi source config support<br/>
+<ul>
+<li>Annotation based configuration management and bean factory</li><br/>
+<li>Imperative and declarative persistency layer : Zero coding for calling stored procedures </li><br/>
+<li>Imperative and declarative transaction management</li><br/>
+<li>Declarative caching</li><br/>
+<li>Declarative job scheduling</li><br/>
+<li>Multi source config support</li><br/>
+</ul>
