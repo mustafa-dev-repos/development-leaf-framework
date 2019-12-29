@@ -9,10 +9,10 @@ the results. You can still use imperative development with Leaf Framework. You
 can also use declarative and imperative development together.
 
 <ul>
-<li>Annotation based configuration management and bean factory</li><br/>
-<li>Imperative and declarative persistency layer : Zero coding for calling stored procedures </li><br/>
-<li>Imperative and declarative transaction management</li><br/>
-<li>Declarative caching</li><br/>
-<li>Declarative job scheduling</li><br/>
-<li>Multi source config support</li><br/>
+<li>Annotation based configuration management and bean factory</li>
+<li>Imperative and declarative persistency layer : Zero coding for calling stored procedures </li>
+<li>Imperative and declarative transaction management</li>
+<li>Declarative caching</li>
+<li>Declarative job scheduling</li>
+<li>Multi source config support</li>
 </ul>
