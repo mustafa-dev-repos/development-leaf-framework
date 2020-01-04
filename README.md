@@ -1,5 +1,5 @@
 # Leaf Framework
-Leaf Framework is a annotation driven framework that aims to simplify java
+Leaf Framework is an annotation driven framework that aims to simplify java
 development and increase the productivity for the model layer issues of the MVC
 (Model View Controller) based java applications. To simplify development Leaf
 Framework provides declarative programming environment using annotations.
